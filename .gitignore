@@ -5,3 +5,6 @@
 /putty/keys/*
 !/putty/keys/README
 
+# proxy
+/proxy.bat
+
