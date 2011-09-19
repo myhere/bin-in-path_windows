@@ -1,0 +1,7 @@
+# vim's tmp files
+*.swp
+
+# keys
+/putty/keys/*
+!/putty/keys/README
+
