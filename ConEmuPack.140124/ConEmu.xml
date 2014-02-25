@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2014-02-25 23:09:17" build="140124">
+		<key name=".Vanilla" modified="2014-02-25 23:17:16" build="140124">
 			<value name="SingleInstance" type="hex" data="01"/>
 			<value name="KeyboardHooks" type="hex" data="01"/>
 			<value name="UseInjects" type="hex" data="01"/>
@@ -87,7 +87,7 @@
 			<value name="StoreTaskbarkTasks" type="hex" data="00"/>
 			<value name="StoreTaskbarCommands" type="hex" data="00"/>
 			<value name="SaveCmdHistory" type="hex" data="01"/>
-			<value name="CmdLineHistory" type="multi"><line data="cmd -cur_console:n"/><line data="ProgramFiles(x86)\Git\bin\sh.exe --login -i -new_console:d:D:\work"/></value>
+			<value name="CmdLineHistory" type="multi"><line data="&quot;C:\Program Files\Internet Explorer\iexplore.exe&quot;"/><line data="&quot;C:\Program Files (x86)\Vim\vim73\gvim.exe&quot;"/><line data="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"/><line data="&quot;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&quot;"/><line data="cmd -cur_console:n"/><line data="ProgramFiles(x86)\Git\bin\sh.exe --login -i -new_console:d:D:\work"/></value>
 			<value name="ShowHelpTooltips" type="hex" data="01"/>
 			<value name="Multi" type="hex" data="01"/>
 			<value name="Multi.ShowButtons" type="hex" data="01"/>
